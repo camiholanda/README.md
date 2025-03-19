@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C, Python, Java & IT Operations**
 
-- 📝 I regularly write articles on **IT Operations**
+- 📝 I regularly write articles about **IT Operations**
 
 - 💬 Ask me about **anything**
 
