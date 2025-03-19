@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Binario.Cloud**
 
-- 🌱 I’m currently learning **C, Python,Java & IT Operations**
+- 🌱 I’m currently learning **C, Python, Java & IT Operations**
 
-- 📝 I regularly write articles on [IT Operations](IT Operations)
+- 📝 I regularly write articles on **IT Operations**
 
 - 💬 Ask me about **anything**
 
