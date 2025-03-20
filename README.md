@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Cami</h1>
 <h3 align="center">A passionate IT student from Brazil</h3>
 
-- 🔭 I’m currently working on **Binario Cloud**
+- 🔭 I’m currently working on **Pix Force**
 
 - 🌱 I’m currently learning **C, Python, Java & IT Operations**
 
